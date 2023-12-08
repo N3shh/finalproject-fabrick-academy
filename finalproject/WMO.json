@@ -1,0 +1,114 @@
+[
+  {
+    "Code": 0,
+    "Description": "Clear"
+  },
+  {
+    "Code": 1,
+    "Description": "Mostly Clear"
+  },
+  {
+    "Code": 2,
+    "Description": "Partly Cloudy"
+  },
+  {
+    "Code": 3,
+    "Description": "Cloudy"
+  },
+  {
+    "Code": 45,
+    "Description": "Fog"
+  },
+  {
+    "Code": 48,
+    "Description": "Freezing Fog"
+  },
+  {
+    "Code": 51,
+    "Description": "Light Drizzle"
+  },
+  {
+    "Code": 53,
+    "Description": "Drizzle"
+  },
+  {
+    "Code": 55,
+    "Description": "Heavy Drizzle"
+  },
+  {
+    "Code": 56,
+    "Description": "Light Freezing Drizzle"
+  },
+  {
+    "Code": 57,
+    "Description": "Freezing Drizzle"
+  },
+  {
+    "Code": 61,
+    "Description": "Light Rain"
+  },
+  {
+    "Code": 63,
+    "Description": "Rain"
+  },
+  {
+    "Code": 65,
+    "Description": "Heavy Rain"
+  },
+  {
+    "Code": 66,
+    "Description": "Light Freezing Rain"
+  },
+  {
+    "Code": 67,
+    "Description": "Freezing Rain"
+  },
+  {
+    "Code": 71,
+    "Description": "Light Snow"
+  },
+  {
+    "Code": 73,
+    "Description": "Snow"
+  },
+  {
+    "Code": 75,
+    "Description": "Heavy Snow"
+  },
+  {
+    "Code": 77,
+    "Description": "Snow Grains"
+  },
+  {
+    "Code": 80,
+    "Description": "Light Rain Shower"
+  },
+  {
+    "Code": 81,
+    "Description": "Rain Shower"
+  },
+  {
+    "Code": 82,
+    "Description": "Heavy Rain Shower"
+  },
+  {
+    "Code": 85,
+    "Description": "Snow Shower"
+  },
+  {
+    "Code": 86,
+    "Description": "Heavy Snow Shower"
+  },
+  {
+    "Code": 95,
+    "Description": "Thunderstorm"
+  },
+  {
+    "Code": 96,
+    "Description": "Hailstorm"
+  },
+  {
+    "Code": 99,
+    "Description": "Heavy Hailstorm"
+  }
+]

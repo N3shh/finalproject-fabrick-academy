@@ -1,0 +1,19 @@
+Lo scopo del progetto finale e' verificare le competenze apprese durante l'academy.
+Il progetto consistera' nella realizzazione di un componente SpringBoot che esporra' una serie di API per funzioni demografiche e meteorologiche sul territorio italiano.
+Il componente dovra' rispondere alle seguenti esigenze:
+- ottenere la lista delle citta' con numero di abitanti maggiore di un valore passato in input
+- ritornare la lista di comuni in una data regione con numero di abitanti maggiore di un valore passato in input
+- ritornare la lista di comuni di una data provincia con numero di abitanti maggiore di un valore passato in input
+- ritornare le previsioni meteo di una data citta' passata in input
+- ritornare la media delle temperature di un certo numero di giorni (parametro passato in input) di una data citta' (parametro passato in input)
+- data una provincia ed un giorno, ritornare la media delle temperature di tutti i comuni appartenenti a quella provincia per quel giorno
+ 
+Per poter ottenere i dati si rimanda ai seguenti link:
+- Repository dei comuni italiani aggiornato al 2018: https://github.com/MatteoHenryChinaski/Comuni-Italiani-2018-Sql-Json-excel/tree/master 
+	Si consiglia di scaricare i dati, salvarli ed importali su database
+- API meteo gratuite: https://open-meteo.com/
+ 
+Ricordate che:
+- per valutare il progetto, e' importante che lo stesso sia avviabile senza interventi manuali (banalmente lanciarlo con un play da intellij).
+- e' importante poter interrogare il vostro componente con uno swagger / openapidoc.
+- parte integrante dell'esercizio e' la comprensione del testo e della documentazione delle API esterne.
